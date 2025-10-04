@@ -1,5 +1,5 @@
 // ------------------------------
-// THEME SCRIPT (HEAD-READY)
+// THEME SCRIPT (theme.js)
 // ------------------------------
 
 // Toggle through light, dark, system
@@ -108,8 +108,8 @@ let setEchartsTheme = theme => {
 let setPlotlyTheme = theme => {
   document.querySelectorAll(".js-plotly-plot").forEach(elem => {
     let jsonData = JSON.parse(elem.previousSibling.childNodes[0].innerHTML);
-    const darkLayout = { /* your existing dark template */ };
-    const lightLayout = { /* your existing light template */ };
+    const darkLayout = {}; // Fill with your dark layout if needed
+    const lightLayout = {}; // Fill with your light layout if needed
 
     jsonData.layout = jsonData.layout || {};
     jsonData.layout.template = theme === "dark" ? { ...darkLayout, ...jsonData.layout.template } : { ...lightLayout, ...jsonData.layout.template };
@@ -155,7 +155,7 @@ let determineComputedTheme = () => {
 // ------------------------------
 // INITIALIZATION
 // ------------------------------
-let initTheme = () => {
+document.addEventListener("DOMContentLoaded", () => {
   let themeSetting = determineThemeSetting();
   document.documentElement.setAttribute("data-theme-setting", themeSetting);
   applyTheme();
@@ -164,7 +164,4 @@ let initTheme = () => {
   if (mode_toggle) mode_toggle.addEventListener("click", toggleThemeSetting);
 
   window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", applyTheme);
-};
-
-// Call immediately
-initTheme();
+});
