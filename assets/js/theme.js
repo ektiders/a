@@ -1,13 +1,20 @@
 // ------------------------------
-// THEME SCRIPT (theme.js)
+// THEME SCRIPT
 // ------------------------------
 
 // Toggle through light, dark, system
 let toggleThemeSetting = () => {
-  let current = document.documentElement.getAttribute("data-theme-setting") || "system";
-  if (current === "system") setThemeSetting("light");
-  else if (current === "light") setThemeSetting("dark");
-  else setThemeSetting("system");
+  let currentComputed = determineComputedTheme();
+  let currentSetting = determineThemeSetting();
+
+  if (currentSetting === "system") {
+    // Toggle away from computed theme
+    setThemeSetting(currentComputed === "dark" ? "light" : "dark");
+  } else if (currentSetting === "light") {
+    setThemeSetting("dark");
+  } else if (currentSetting === "dark") {
+    setThemeSetting("light");
+  }
 };
 
 // Save and apply theme
@@ -108,8 +115,8 @@ let setEchartsTheme = theme => {
 let setPlotlyTheme = theme => {
   document.querySelectorAll(".js-plotly-plot").forEach(elem => {
     let jsonData = JSON.parse(elem.previousSibling.childNodes[0].innerHTML);
-    const darkLayout = {}; // Fill with your dark layout if needed
-    const lightLayout = {}; // Fill with your light layout if needed
+    const darkLayout = { /* your dark template */ };
+    const lightLayout = { /* your light template */ };
 
     jsonData.layout = jsonData.layout || {};
     jsonData.layout.template = theme === "dark" ? { ...darkLayout, ...jsonData.layout.template } : { ...lightLayout, ...jsonData.layout.template };
@@ -155,7 +162,7 @@ let determineComputedTheme = () => {
 // ------------------------------
 // INITIALIZATION
 // ------------------------------
-document.addEventListener("DOMContentLoaded", () => {
+let initTheme = () => {
   let themeSetting = determineThemeSetting();
   document.documentElement.setAttribute("data-theme-setting", themeSetting);
   applyTheme();
@@ -164,4 +171,7 @@ document.addEventListener("DOMContentLoaded", () => {
   if (mode_toggle) mode_toggle.addEventListener("click", toggleThemeSetting);
 
   window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", applyTheme);
-});
+};
+
+// Call immediately
+initTheme();
