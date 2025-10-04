@@ -278,20 +278,22 @@ let determineComputedTheme = () => {
 };
 
 let initTheme = () => {
+  // Get saved theme
   let themeSetting = determineThemeSetting();
 
-  setThemeSetting(themeSetting);
+  // Apply the theme without changing the stored value
+  document.documentElement.setAttribute("data-theme-setting", themeSetting);
+  applyTheme();
 
-  // Add event listener to the theme toggle button.
+  // Add event listener to the theme toggle button
   document.addEventListener("DOMContentLoaded", function () {
     const mode_toggle = document.getElementById("light-toggle");
-
     mode_toggle.addEventListener("click", function () {
       toggleThemeSetting();
     });
   });
 
-  // Add event listener to the system theme preference change.
+  // React to system theme changes
   window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", ({ matches }) => {
     applyTheme();
   });
