@@ -17,12 +17,9 @@ Currently, I work as a `TA` in the *Department of Mathematics and Physics*, NSU.
 
 ### 📚 Books
 
-It took me a few hundred books to realize that I was mostly reading trash. Since then, I try to stick to more thoughtful, well-written _(and sometimes scholarly)_ works. The list contains some of my favorites.
+> It took me a few hundred books to realize that I was mostly reading trash. Since then, I try to stick to more thoughtful, well-written _(and sometimes scholarly)_ works. The list contains some of my favorites.
 
-_It took me a few hundred books to realize that I was mostly reading trash. Since then, I try to stick to more thoughtful, well-written _(and sometimes scholarly)_ works. The list contains some of my favorites._
-
-
-> 🕋 Theology
+`🕋 Theology`
 - The Quran - _translated by Abdullah Yusuf Ali_
 - Lost Islamic History - _Firas Alkhateeb_
 - Islam at the Crossroads - _Muhammad Anas-Weiss_
@@ -35,19 +32,19 @@ _It took me a few hundred books to realize that I was mostly reading trash. Sinc
 - বাজারি মূলধনমূল্য গণতন্ত্র - _Hasan Mahmud_
 - বিশ্ববাণিজ্য: উদ্ভব, বিকাশ ও ভিন্নমতিপ্রভাব - _Syed Nizar_
 
-### 🧠 Psychology
+`🧠 Psychology`
 - Man's Search for Meaning - _Viktor E. Frankl_
 - The Shallows: What the Internet is doing to our Brains - _Nicholas Carr_
 - The Power of Habit - _Charles Duhigg_
 
-### 👤 Biography and Memoirs
+`👤 Biography and Memoirs`
 - Twelve Years a Slave - _Solomon Northup_
 - When Breath becomes Air - _Paul Kalanathi_
 - Einstein: His Life and Universe - _Walter Isaacson_
 - The Old King in his Exile - _Arno Geiger_
 - যাযাবী আমার শুরু - _Ahmed Sofa_
 
-### 📖 Fiction
+`📖 Fiction`
 - Burmese Days - _George Orwell_
 - Animal Farm - _George Orwell_
 - No Longer Human - _Osamu Dazai_
@@ -56,9 +53,10 @@ _It took me a few hundred books to realize that I was mostly reading trash. Sinc
 
 ---
 
-## 🏃‍♂️ Running
+### 🏃‍♂️ Running
 
 > "Running from your problems won't make you skinny."
+_Some of my notable performances:_
 
 - Dhaka 25K [2025] (61st of 970)
 - Dhaka International Marathon 2025 (Half-marathon, 101st of 2685)
