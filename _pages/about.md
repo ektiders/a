@@ -9,7 +9,7 @@ subtitle: "Academics. Running. Theology"
 
 I'm a Junior at [North South University](https://www.northsouth.edu/), majoring in `Economics` with a minor in `Mathematics`.
 
-Currently, I work as a `Teaching Assistant` in the *Department of Mathematics and Physics*, NSU.
+Currently, I work as a `Teaching Assistant` in the Department of Mathematics and Physics, NSU.
 
 ⬇️ ektider.sporsho.241@northsouth.edu
 
@@ -17,7 +17,7 @@ Currently, I work as a `Teaching Assistant` in the *Department of Mathematics an
 
 ### 📚 Books
 
-> It took me a few hundred books to realize that I was mostly reading trash. Since then, I try to stick to more thoughtful, well-written _(and sometimes scholarly)_ works. The list contains some of my favorites.
+_It took me a few hundred books to realize that I was mostly reading trash. Since then, I try to stick to more thoughtful, well-written _(and sometimes scholarly)_ works. The list contains some of my favorites._
 
 `🕋 Theology`
 - The Quran - _translated by Abdullah Yusuf Ali_
@@ -55,7 +55,8 @@ Currently, I work as a `Teaching Assistant` in the *Department of Mathematics an
 
 ### 🏃‍♂️ Running
 
-> Running from your problems won't make you skinny.
+>> Running from your problems won't make you skinny.
+
 _Some of my notable performances:_
 
 - Dhaka 25K [2025] (61st of 970)
