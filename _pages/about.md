@@ -9,7 +9,7 @@ subtitle: "Academics. Running. Theology"
 
 I'm a Junior at [North South University](https://www.northsouth.edu/), majoring in `Economics` with a minor in `Mathematics`.
 
-Currently, I work as a `TA` in the *Department of Mathematics and Physics*, NSU.
+Currently, I work as a `Teaching Assistant` in the *Department of Mathematics and Physics*, NSU.
 
 ⬇️ ektider.sporsho.241@northsouth.edu
 
@@ -55,7 +55,7 @@ Currently, I work as a `TA` in the *Department of Mathematics and Physics*, NSU.
 
 ### 🏃‍♂️ Running
 
-> "Running from your problems won't make you skinny."
+> Running from your problems won't make you skinny.
 _Some of my notable performances:_
 
 - Dhaka 25K [2025] (61st of 970)
