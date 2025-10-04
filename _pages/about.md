@@ -41,34 +41,19 @@ It took me a few hundred books to realize that I was mostly reading trash. Since
 - **যাযাবী আমার শুরু** - _Ahmed Sofa_
 
 ### Fiction
-- Burmese Days – George Orwell
-Animal Farm – George Orwell 
+- **Burmese Days** - _George Orwell_
+- **Animal Farm** - _George Orwell_
+- **No Longer Human** - _Osamu Dazai_
+- **আদর্শ হিন্দু হোটেল** - _Bibhutibhushan Bandyopadhyay_
+- **গাভী বিত্তান্ত** - _Ahmed Sofa_
 
-No Longer Human – Osamu Dazai 
+## 🏃‍♂️ Running
 
-আদর্শ হিন্দু হোটেল – Bibhutibhushan Bandyopadhyay 
+Running from your problems won't make you skinny.
 
-গাভী বিত্তান্ত – Ahmed Sofa
+- **Dhaka 25K [2025]** (61st of 970)
+- **Dhaka International Marathon 2025** (Half-marathon, 101st of 2685)
+- **Run for the Helpless Children Education** (Half-marathon, 2nd)
+- **Bangabandhu Sheikh Mujib Dhaka Marathon 2024** (Half-marathon)
+- **Joy Bangla Marathon 2024** (Half-marathon, 71st of 2579)
 
-##🏃🏼‍♂️‍➡️ Running
-Running from your problems won't make you skinny
-
-ActivePulse Half Marathon 2025
-
-Dhaka Summer Half Marathon 2025
-
-Dhaka 25K [2025] (61st of 970)
-
-Dhaka International Marathon 2025 (Half-marathon, 101st of 2685) 
-
-Run for the Helpless Children Education (Half-marathon, 2nd)
-
-Bangabandhu Sheikh Mujib Dhaka Marathon 2024 (Half-marathon) 
-
-Joy Bangla Marathon 2024 (Half-marathon, 71st of 2579)
-
-Trail Break 15K Run 2024 (11th of 175)
-
-Dhaka 25K [2024] (10k, 17th of 787)
-
-RunBangla International 10K 2023
