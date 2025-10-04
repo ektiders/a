@@ -59,9 +59,9 @@ _It took me a few hundred books to realize that I was mostly reading trash. Sinc
 
 _Some of my notable performances:_
 
-- Dhaka 25K [2025] (61st of 970)
-- Dhaka International Marathon 2025 (Half-marathon, 101st of 2685)
-- Run for the Helpless Children Education (Half-marathon, 2nd)
-- Bangabandhu Sheikh Mujib Dhaka Marathon 2024 (Half-marathon)
-- Joy Bangla Marathon 2024 (Half-marathon, 71st of 2579)
+- **Dhaka 25K** [2025] (61st of 970)
+- **Dhaka International Marathon 2025** (Half-marathon, 101st of 2685)
+- **Run for the Helpless Children Education** (Half-marathon, 2nd)
+- **Bangabandhu Sheikh Mujib Dhaka Marathon 2024** (Half-marathon)
+- **Joy Bangla Marathon 2024** (Half-marathon, 71st of 2579)
 
