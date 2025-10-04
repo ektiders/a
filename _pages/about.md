@@ -55,7 +55,7 @@ _It took me a few hundred books to realize that I was mostly reading trash. Sinc
 
 ### 🏃‍♂️ Running
 
->> Running from your problems won't make you skinny.
+> Running from your problems won't make you skinny.
 
 _Some of my notable performances:_
 
