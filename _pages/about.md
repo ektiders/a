@@ -73,11 +73,8 @@ _It took me a few hundred books to realize that I was mostly reading trash. Sinc
 
 <br style="line-height:0.1;">
 
-_Some of my notable performances:_
+_Running from your problems won't make you skinny_
 
-- **Dhaka 25K** [2025] (61st of 970)
-- **Dhaka International Marathon 2025** (Half-marathon, 101st of 2685)
-- **Run for the Helpless Children Education** (Half-marathon, 2nd)
-- **Bangabandhu Sheikh Mujib Dhaka Marathon 2024** (Half-marathon)
-- **Joy Bangla Marathon 2024** (Half-marathon, 71st of 2579)
+The longest distance I’ve run is 25 km, during the `Dhaka 25K` in 2025. 
 
+I completed the race in _2 hours and 25 minutes_, and finished _61st out of 970_ participants.
