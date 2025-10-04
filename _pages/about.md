@@ -9,59 +9,39 @@ Junior at [North South University](https://www.northsouth.edu/), major in `Econo
 
 I am currently working as a TA in the Department of Mathematics and Physics, NSU.
 
-📚  Books
-It took me a few hundred books to realize that i was mostly reading trash. Since then, I try to stick to more thoughtful, well-written (and sometimes scholarly) works. The list contains some of my favorites.
+---
 
-Theology
+## 📚 Books
 
-The Quran - translated by Abdullah Yusuf Ali 
+It took me a few hundred books to realize that I was mostly reading trash. Since then, I try to stick to more thoughtful, well-written _(and sometimes scholarly)_ works. The list contains some of my favorites.
 
-Lost Islamic History- Firas Alkhateeb 
+### Theology
+- **The Quran** - _translated by Abdullah Yusuf Ali_
+- **Lost Islamic History** - _Firas Alkhateeb_
+- **Islam at the Crossroads** - _Muhammad Anas-Weiss_
+- **প্রথম মুসলিম [The First Muslim]** - _Lesley Hazleton, translated by Abdullah Ibn Mahmud_
 
-Islam at the Crossroads - Muhammad Anas-Weiss
+### Non-fiction
+- **Algorithms to Live by** - _Brian Christian, Tom Griffiths_
+- **Poor Economics** - _Abhijit V. Banerjee, Esther Duflo_
+- **The Porn Myth** - _Matt Fradd_
+- **বাজারি মূলধনমূল্য গণতন্ত্র** - _Hasan Mahmud_
+- **বিশ্ববাণিজ্য: উদ্ভব, বিকাশ ও ভিন্নমতিপ্রভাব** - _Syed Nizar_
 
-দ্য প্রফেট [The First Muslim] - Lesley Hazleton, translated by Abdullah Ibn Mahmud
+### Psychology
+- **Man's Search for Meaning** - _Viktor E. Frankl_
+- **The Shallows: What the Internet is doing to our Brains** - _Nicholas Carr_
+- **The Power of Habit** - _Charles Duhigg_
 
+### Biography and Memoirs
+- **Twelve Years a Slave** - _Solomon Northup_
+- **When Breath becomes Air** - _Paul Kalanathi_
+- **Einstein: His Life and Universe** - _Walter Isaacson_
+- **The Old King in his Exile** - _Arno Geiger_
+- **যাযাবী আমার শুরু** - _Ahmed Sofa_
 
-Non-fiction
-
-Algorithms to Live by - Brian Christian, Tom Griffiths
-
-Poor Economics - Abhijit V. Banerjee, Esther Duflo
-
-The Porn Myth - Matt Fradd
-
-বাঙালি মুসলমান প্রশ্ন - Hasan Mahmud 
-
-বিশ্ববিদ্যালয়: উদ্ভব, বিকাশ ও বিউপনিবেশায়ন - Syed Nizar 
-
-
-Psychology
-
-Man's Search for Meaning - Viktor E. Frankl
-
-The Shallows: What the Internet is doing to our Brains - Nicholas Carr
-
-The Power of Habit - Charles Duhigg
-
-
-Biography and Memoirs
-
-Twelve Years a Slave - Solomon Northup 
-
-When Breath becomes Air - Paul Kalanathi 
-
-Einstein: His Life and Universe – Walter Isaacson
-
-The Old King in his Exile – Arno Geiger
-
-যদ্যপি আমার গুরু – Ahmed Sofa 
-
-
-Fiction
-
-Burmese Days – George Orwell
-
+### Fiction
+- Burmese Days – George Orwell
 Animal Farm – George Orwell 
 
 No Longer Human – Osamu Dazai 
@@ -70,7 +50,7 @@ No Longer Human – Osamu Dazai
 
 গাভী বিত্তান্ত – Ahmed Sofa
 
-🏃🏼‍♂️‍➡️ Running
+##🏃🏼‍♂️‍➡️ Running
 Running from your problems won't make you skinny
 
 ActivePulse Half Marathon 2025
