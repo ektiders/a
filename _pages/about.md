@@ -73,8 +73,6 @@ _It took me a few hundred books to realize that I was mostly reading trash. Sinc
 
 <br style="line-height:0.1;">
 
-_Running from your problems won't make you skinny._
-
 _Some of my notable performances:_
 
 - **Dhaka 25K** [2025] (61st of 970)
