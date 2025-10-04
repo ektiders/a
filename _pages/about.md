@@ -6,7 +6,7 @@ subtitle: "Academics. Running. Theology"
 
 ---
 
-<br>
+<br style="line-height:0.5;">
 السلام عليكم
 
 I'm a Junior at [North South University](https://www.northsouth.edu/), majoring in `Economics` with a minor in `Mathematics`.
@@ -16,13 +16,13 @@ Currently, I work as a `Teaching Assistant` in the Department of Mathematics and
 ⬇️ ektider.sporsho.241@northsouth.edu
 
 ---
-<br>
+<br style="line-height:0.5;">
 
 ### 📚 Books
 
 _It took me a few hundred books to realize that I was mostly reading trash. Since then, I try to stick to more thoughtful, well-written _(and sometimes scholarly)_ works. The list contains some of my favorites._
 
-<br style="line-height:0.5;">
+<br style="line-height:0.3;">
 
 `🕋 Theology`
 - The Quran - _translated by Abdullah Yusuf Ali_
@@ -30,7 +30,7 @@ _It took me a few hundred books to realize that I was mostly reading trash. Sinc
 - Islam at the Crossroads - _Muhammad Anas-Weiss_
 - প্রথম মুসলিম [The First Muslim] - _Lesley Hazleton, translated by Abdullah Ibn Mahmud_
 
-<br style="line-height:0.5;">
+<br style="line-height:0.3;">
 
 `📈 Non-fiction`
 - Algorithms to Live by - _Brian Christian, Tom Griffiths_
@@ -39,14 +39,14 @@ _It took me a few hundred books to realize that I was mostly reading trash. Sinc
 - বাজারি মূলধনমূল্য গণতন্ত্র - _Hasan Mahmud_
 - বিশ্ববাণিজ্য: উদ্ভব, বিকাশ ও ভিন্নমতিপ্রভাব - _Syed Nizar_
 
-<br style="line-height:0.5;">
+<br style="line-height:0.3;">
 
 `🧠 Psychology`
 - Man's Search for Meaning - _Viktor E. Frankl_
 - The Shallows: What the Internet is doing to our Brains - _Nicholas Carr_
 - The Power of Habit - _Charles Duhigg_
 
-<br style="line-height:0.5;">
+<br style="line-height:0.3;">
 
 `👤 Biography and Memoirs`
 - Twelve Years a Slave - _Solomon Northup_
@@ -55,7 +55,7 @@ _It took me a few hundred books to realize that I was mostly reading trash. Sinc
 - The Old King in his Exile - _Arno Geiger_
 - যাযাবী আমার শুরু - _Ahmed Sofa_
 
-<br style="line-height:0.5;">
+<br style="line-height:0.3;">
 
 `📖 Fiction`
 - Burmese Days - _George Orwell_
@@ -65,11 +65,11 @@ _It took me a few hundred books to realize that I was mostly reading trash. Sinc
 - গাভী বিত্তান্ত - _Ahmed Sofa_
 
 ---
-<br>
+<br style="line-height:0.5;">
 
 ### 🏃‍♂️ Running
 
-<br style="line-height:0.5;">
+<br style="line-height:0.3;">
 
 _Running from your problems won't make you skinny._
 
