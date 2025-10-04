@@ -37,12 +37,16 @@ _It took me a few hundred books to realize that I was mostly reading trash. Sinc
 - The Shallows: What the Internet is doing to our Brains - _Nicholas Carr_
 - The Power of Habit - _Charles Duhigg_
 
+<br>
+
 `👤 Biography and Memoirs`
 - Twelve Years a Slave - _Solomon Northup_
 - When Breath becomes Air - _Paul Kalanathi_
 - Einstein: His Life and Universe - _Walter Isaacson_
 - The Old King in his Exile - _Arno Geiger_
 - যাযাবী আমার শুরু - _Ahmed Sofa_
+
+<br>
 
 `📖 Fiction`
 - Burmese Days - _George Orwell_
@@ -55,12 +59,11 @@ _It took me a few hundred books to realize that I was mostly reading trash. Sinc
 
 ### 🏃‍♂️ Running
 
-> Running from your problems won't make you skinny.
+_Running from your problems won't make you skinny._
 
 _Some of my notable performances:_
 
 - **Dhaka 25K** [2025] (61st of 970)
-
 - **Dhaka International Marathon 2025** (Half-marathon, 101st of 2685)
 - **Run for the Helpless Children Education** (Half-marathon, 2nd)
 - **Bangabandhu Sheikh Mujib Dhaka Marathon 2024** (Half-marathon)
