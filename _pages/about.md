@@ -9,6 +9,7 @@ subtitle: "Academics. Running. Theology"
 <br style="line-height:0.5;">
 السلام عليكم
 
+
 I'm a Junior at [North South University](https://www.northsouth.edu/), majoring in `Economics` with a minor in `Mathematics`.
 
 Currently, I work as a `Teaching Assistant` in the Department of Mathematics and Physics, NSU.
