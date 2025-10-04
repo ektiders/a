@@ -17,10 +17,10 @@ Currently, I work as a `Teaching Assistant` in the Department of Mathematics and
 ⬇️ ektider.sporsho.241@northsouth.edu
 
 ---
-<br style="line-height:0.5;">
+<br style="line-height:0.2;">
 
 ### 📚 Books
-<br style="line-height:0.2;">
+<br style="line-height:0.1;">
 
 _It took me a few hundred books to realize that I was mostly reading trash. Since then, I try to stick to more thoughtful, well-written _(and sometimes scholarly)_ works. The list contains some of my favorites._
 
@@ -67,7 +67,7 @@ _It took me a few hundred books to realize that I was mostly reading trash. Sinc
 - গাভী বিত্তান্ত - _Ahmed Sofa_
 
 ---
-<br style="line-height:0.5;">
+<br style="line-height:0.2;">
 
 ### 🏃‍♂️ Running
 
