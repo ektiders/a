@@ -5,6 +5,8 @@ permalink: /
 subtitle: "Academics. Running. Theology"
 
 ---
+
+<br>
 السلام عليكم
 
 I'm a Junior at [North South University](https://www.northsouth.edu/), majoring in `Economics` with a minor in `Mathematics`.
@@ -14,7 +16,7 @@ Currently, I work as a `Teaching Assistant` in the Department of Mathematics and
 ⬇️ ektider.sporsho.241@northsouth.edu
 
 ---
-<br><br>
+<br>
 
 ### 📚 Books
 
@@ -64,7 +66,7 @@ _It took me a few hundred books to realize that I was mostly reading trash. Sinc
 
 ---
 
-<br><br>
+<br>
 
 ### 🏃‍♂️ Running
 
