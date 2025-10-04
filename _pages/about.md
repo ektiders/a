@@ -19,10 +19,8 @@ Currently, I work as a `TA` in the *Department of Mathematics and Physics*, NSU.
 
 It took me a few hundred books to realize that I was mostly reading trash. Since then, I try to stick to more thoughtful, well-written _(and sometimes scholarly)_ works. The list contains some of my favorites.
 
-_It took me a few hundred books to realize that I was mostly reading trash. Since then, I try to stick to more thoughtful, well-written _(and sometimes scholarly)_ works. The list contains some of my favorites.
-_
+_It took me a few hundred books to realize that I was mostly reading trash. Since then, I try to stick to more thoughtful, well-written _(and sometimes scholarly)_ works. The list contains some of my favorites._
 
-`It took me a few hundred books to realize that I was mostly reading trash. Since then, I try to stick to more thoughtful, well-written _(and sometimes scholarly)_ works. The list contains some of my favorites.`
 
 > 🕋 Theology
 - The Quran - _translated by Abdullah Yusuf Ali_
@@ -30,7 +28,7 @@ _
 - Islam at the Crossroads - _Muhammad Anas-Weiss_
 - প্রথম মুসলিম [The First Muslim] - _Lesley Hazleton, translated by Abdullah Ibn Mahmud_
 
-> `📈 Non-fiction`
+`📈 Non-fiction`
 - Algorithms to Live by - _Brian Christian, Tom Griffiths_
 - Poor Economics - _Abhijit V. Banerjee, Esther Duflo_
 - The Porn Myth - _Matt Fradd_
