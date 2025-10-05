@@ -2,7 +2,7 @@
 layout: about
 title: "about"
 permalink: /
-subtitle: "Academics. Running. Theology"
+subtitle: "🎓 Academics. 🏃🏾‍♂️‍➡️ Running. 🕋 Theology"
 
 ---
 
