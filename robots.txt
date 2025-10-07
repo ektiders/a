@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ektiders.github.io/a/sitemap.xml
+Sitemap: https://ektider.com/sitemap.xml
