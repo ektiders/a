@@ -7,7 +7,7 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/";
+      window.location.href = "/a/";
     },
   },{
       id: 'light-theme',
