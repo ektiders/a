@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ektidersporsho.com/sitemap.xml
+Sitemap: https://ektider.com/sitemap.xml
