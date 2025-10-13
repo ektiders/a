@@ -19,5 +19,5 @@ My longest run so far is 25 km, completed at the `Dhaka 25K` in 2025. It took me
 
 <br style="line-height:0.5;">
 
-⬇️ ektider[dot]sporsho[dot]241[at]northsouth[dot]edu
+⬇️ ektider.sporsho.241@northsouth.edu
 
