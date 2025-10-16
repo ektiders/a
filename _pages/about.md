@@ -14,9 +14,9 @@ I'm a Junior at [North South University](https://www.northsouth.edu/), majoring 
 
 Currently, I work as a `Teaching Assistant` in the Department of Mathematics and Physics, NSU.
 
-I don't use any social media, so I’ll be sharing my insights and works here.
+<br>
 
-To take a dive into my thoughts and works, keep an eye here. I will keep you posted here.
+I don't use any social media, so I’ll be sharing my insights and works here.
 
 <br style="line-height:0.5;">
 
