@@ -14,8 +14,9 @@ I'm a Junior at [North South University](https://www.northsouth.edu/), majoring 
 
 Currently, I work as a `Teaching Assistant` in the Department of Mathematics and Physics, NSU.
 
-Outside academics, I’m an endurance runner. <br>
-My longest run so far is 25 km, completed at the `Dhaka 25K` in 2025. It took me 2 hours and 25 minutes.
+I don't use any social media, so I’ll be sharing my insights and works here.
+
+To take a dive into my thoughts and works, keep an eye here. I will keep you posted here.
 
 <br style="line-height:0.5;">
 
